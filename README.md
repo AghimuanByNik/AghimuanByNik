@@ -1,6 +1,9 @@
-## Hi there 👋
+<img width="1468" height="813" alt="Greeting" src="https://github.com/user-attachments/assets/872c70c6-bae0-4bc2-a89c-c3bcf716c8d4" />
+
 
 <!--
+
+## Hi there 👋
 **AghimuanByNik/AghimuanByNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
